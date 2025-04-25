@@ -1,0 +1,10 @@
+drip coffee:Drip coffee is your most typical cup of coffee. It is brewed by pouring hot water over coffee grinds and allowing the water to filter through.
+iced coffee:Iced coffee is just chilled drip coffee. So, it is as simple as it sounds. You brew your hot coffee and put it in a refrigerator to chill.
+cold brew:Cold brew is not the same as iced coffee as it may sound. Cold brew is brewed with cold water and usually over many hours. Although usually more caffeinated, this coffee is smoother and less bitter than your typical cup of coffee.
+espresso:Espresso is a very concentrated type of coffee. It uses finely ground beans that are packed together and extracted through hot water through an espresso machine. Shots of espresso are usually paired with water or milk to make an americano or latte but can also be enjoyed on their own.
+americano:An americano is simply espresso and water. This drink can be made hot or iced.
+latte:A latte is simply espresso and milk. For a hot latte, espresso is pulled while milk is steamed and then paired together. For iced, the espresso is pulled and paired with milk and ice.
+cappuccino:Cappuccinos contain espresso and foamed milk. Typically the milk is steamed while allowing extra room for air which creates the foamy texture.
+flat white:A flat white is similar to a latte in that it contains espresso and milk. The difference is that when the milk is steamed it is not frothed, so there is a silky, smooth texture.
+cortado:A cortado is like a latte with the same ingredients, milk and espresso. However, the cortado has a smaller milk to espresso ratio, creating a stronger espresso flavor.
+red eye:As it sounds, a red eye is a very caffeinated drink. It is drip or iced coffee with a shot of espresso.

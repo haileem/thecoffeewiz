@@ -1,0 +1,72 @@
+drip coffee: 
+1. Grind your beans at a medium setting.
+2. Add a filter and pour the ground beans in.
+3. Select the correct setting on your coffee machine.
+4. Once brewed, pour and add cream or sugar to your liking.
+
+iced coffee:
+1. Pour chilled drip coffee over ice.
+2. Add cream or sugar to your liking.
+
+cold brew: 
+1. Steep cold brew concentrate overnight.
+2. Pour the concentrate and add water over ice.
+3. Add any flavors or milks as you wish. 
+
+espresso: 
+1. Grind fresh coffee beans to a fine consistency.
+2. Put the coffee grounds in the espresso machine portafilter.
+3. Tamp the grounds firmly ensuring an even extraction.
+4. Lock the portafilter into the espresso machine.
+5. Start the espresso machine and wait.
+6. Espresso should be fully extracted in 30 seconds. 
+
+hot americano: 
+1. Brew a shot of espresso.
+2. Add hot water to the espresso.
+
+iced americano:
+1. Brew a shot of espresso.
+2. Pour water over ice and add the shot of espresso.
+
+hot latte: 
+1. Brew a shot of espresso.
+2. Steam milk to a velvety texture.
+3. Pour the steamed milk into the espresso.
+
+iced latte:
+1. Brew a shot of espresso.
+2. Pour milk over ice.
+3. Add the shot of espresso.
+
+cappuccino: 
+1. Brew a shot of espresso.
+2. Steam milk creating a smooth microfoam.
+3. Pour the steamed milk over the espresso.
+4. Leave about 1/4 inch of foam at the top.
+
+flat white:
+1. Brew a shot of espresso.
+2. Steam milk to a velvety texture, not too frothy.
+3. Pour the steamed milk into the espresso.
+
+cortado:
+1. Brew a shot of espresso.
+2. Steam milk creating a smooth microfoam.
+3. Pour the steamed milk into the espresso as a 1:1 ratio.
+
+hot red eye: 
+1. Brew a cup of coffee.
+2. Brew a shot of espresso.
+3. Add your espresso to the cup of coffee.
+
+iced red eye:
+1. Pour chilled drip coffee over ice.
+2. Brew a shot of espresso.
+3. Add your espresso to the chilled coffee.
+
+hot chocolate:
+1. Add mocha sauce to cup.
+2. Steam milk creating a velvety texture.
+3. Pour the steamed milk and mix with the mocha sauce.
+4. Add whip cream, of course.
